@@ -1,0 +1,30 @@
+h1 {
+  color:blue;
+  text-align: center;
+}
+
+h2 {
+  color:green;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  line-height: 40 px;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.author {
+  color: #5F9EA0
+}
+
+p.author {
+  font-size: 12 px;
+}
